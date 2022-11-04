@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "10018784-1228695")(type "KiCad")(uri "/home/nhuffman/oxide/hardware-pmod_vpd_prog/10018784-1228695.pretty")(options "")(descr ""))
   (lib (name "U2")(type "KiCad")(uri "${KIPRJMOD}/U2.pretty")(options "")(descr ""))
+  (lib (name "mech_model")(type "KiCad")(uri "${KIPRJMOD}/mech_model")(options "")(descr ""))
 )

@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 37,
-    "active_layer_preset": "",
-    "auto_track_width": true,
+    "active_layer": 44,
+    "active_layer_preset": "Front Assembly View",
+    "auto_track_width": false,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -15,7 +15,7 @@
     "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
-      "footprints": true,
+      "footprints": false,
       "graphics": true,
       "keepouts": true,
       "lockedItems": true,
@@ -62,7 +62,7 @@
       35,
       36
     ],
-    "visible_layers": "ffffff0_7ffffff8",
+    "visible_layers": "00290a0_00000000",
     "zone_display_mode": 0
   },
   "meta": {

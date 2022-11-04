@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"LEADS_TYPE";"02";"";
+"REFERENCE";"PCIE-064-02-F-D-RA";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"SUPPLIER";"Samtec";"";
+"NUMBER_OF_POSITIONS";"64";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"34-18102019-081200";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"1.00 mm PCI Express® Edge Card Connector PCIE-064-02-F-D-RA";"";
+"TraceParts.InstanceId";"34-18102019-0812009UVQMNMHPWZDYTXWIN77NRJPD";"";
+"TraceParts.PartTitle";"PCIE - 1.00 mm PCI Express® Edge Card Connector";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"SAMTEC:34-18102019-081200";"";
+"SERIES";"PCIE";"";
