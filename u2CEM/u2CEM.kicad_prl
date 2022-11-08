@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 44,
-    "active_layer_preset": "Front Assembly View",
+    "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -15,7 +15,7 @@
     "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
-      "footprints": false,
+      "footprints": true,
       "graphics": true,
       "keepouts": true,
       "lockedItems": true,
@@ -62,7 +62,7 @@
       35,
       36
     ],
-    "visible_layers": "00290a0_00000000",
+    "visible_layers": "0001020_00000001",
     "zone_display_mode": 0
   },
   "meta": {
