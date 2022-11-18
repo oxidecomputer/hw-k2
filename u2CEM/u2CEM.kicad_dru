@@ -9,7 +9,7 @@
 
 (rule DIFF_INNER_85ohm
 	(layer inner)
-	(constraint diff_pair_gap (opt 0.2mm) (min 0.2mm) (max 0.2mm))
-	(constraint track_width (opt 0.37mm) (min 0.37mm) (max 0.37mm))
-	(constraint clearance (opt 0.2mm) (min 0.2mm) (max 0.2mm))
+	(constraint diff_pair_gap (opt 0.15mm) (min 0.15mm) (max 0.15mm))
+	(constraint track_width (opt 0.105mm) (min 0.105mm) (max 0.105mm))
+	(constraint clearance (opt 0.15mm) (min 0.15mm) (max 0.15mm))
 	(condition "A.NetClass == 'Diff'"))

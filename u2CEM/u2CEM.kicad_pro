@@ -56,10 +56,14 @@
         }
       ],
       "drc_exclusions": [
+        "diff_pair_gap_out_of_range|101371000|206300000|560e44fd-5dd2-40d8-96af-68999c0fa0c1|883a53ba-69bc-4a9c-9859-b44c7e1840bd",
         "diff_pair_gap_out_of_range|225470000|204759000|6f6b052f-f548-46f8-ab5e-e0a8e5a6014b|15f593b8-e598-4e81-9b21-06c4213fa5de",
+        "diff_pair_gap_out_of_range|225621501|204953881|3135b6d5-1eef-4f43-ae95-86a2806019c9|f23f4183-8305-4bdb-a27d-eceff22e8cd5",
         "diff_pair_gap_out_of_range|225770000|204880000|6f6b052f-f548-46f8-ab5e-e0a8e5a6014b|15f593b8-e598-4e81-9b21-06c4213fa5de",
         "diff_pair_gap_out_of_range|228186000|209143000|9aac99d0-50b8-4fe9-b61b-f6db7dddde9c|76b17db5-adec-4075-a8c2-38405c5b6019",
+        "diff_pair_gap_out_of_range|228471501|208857499|f1c41002-4133-4aae-8120-6bb76ab93c4c|e71ef641-7858-4c61-9b43-c68aa17a040d",
         "diff_pair_gap_out_of_range|228486000|209264000|9aac99d0-50b8-4fe9-b61b-f6db7dddde9c|76b17db5-adec-4075-a8c2-38405c5b6019",
+        "diff_pair_gap_out_of_range|229887001|211091999|aa160f2d-3efb-4c08-a324-e5489f6a1ed8|555f60e3-135c-4e53-8623-8e9580e394fa",
         "diff_pair_gap_out_of_range|230350000|214224382|a6b573c3-f156-4a2a-9be9-33b196ad2726|d5fa2da7-24d2-472f-86af-7b1331c5fb4f",
         "diff_pair_gap_out_of_range|230650000|214345382|a6b573c3-f156-4a2a-9be9-33b196ad2726|d5fa2da7-24d2-472f-86af-7b1331c5fb4f",
         "item_on_disabled_layer|264500000|221829000|1651d7a3-2e7d-4212-8b5b-264b30254f1a|00000000-0000-0000-0000-000000000000",
@@ -392,7 +396,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.01,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.01,
@@ -422,7 +426,7 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.105,
         "via_diameter": 0.5,
         "via_drill": 0.2,
         "wire_width": 6.0
