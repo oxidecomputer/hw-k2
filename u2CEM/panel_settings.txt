@@ -1,9 +1,0 @@
-kikit panelize \
-    --layout 'hspace: 7.6mm; vspace: 7.6mm; hbackbone: 3.5mm; vbackbone: 3.5mm; rows: 2; vbonecut: False; hbonecut: False' \
-    --source 'tolerance: 25mm' \
-    --tabs 'vwidth: 2mm; hwidth: 2mm; spacing: 45mm' \
-    --cuts 'type: mousebites; drill: 0.6mm; offset: 0.15mm' \
-    --framing 'type: frame; width: 5mm' \
-    --tooling 'type: 4hole; hoffset: 2.5mm; voffset: 2.5mm; size: 2mm; paste: True' \
-    --fiducials 'type: 3fid; hoffset: 2.5mm; voffset: 5mm; opening: 1.7mm' \
-    /home/nhuffman/oxide/hardware-u2CEM-extender/u2CEM/u2CEM.kicad_pcb panel.kicad_pcb
