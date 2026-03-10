@@ -1,0 +1,20 @@
+### Footprint positions - created on 2026-03-10T14:48:47-0500 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                              PosX       PosY       Rot  Side
+D1        LED                      LED_0603_1608Metric              221.0875  -193.5290  180.0000  top
+D2        LED                      LED_0603_1608Metric              221.0875  -186.0290  180.0000  top
+J1        PCIE-064-02-F-D-EMS2-BG  SAMTEC_PCIE-064-02-X-D-EMS2-BG   260.5000  -216.0000  180.0000  top
+J2        PSAS4M2130021TR          PSAS4M2130021TR                  101.7000  -203.8790   90.0000  top
+R5        0R                       R_0603_1608Metric                108.7000  -205.8790  180.0000  top
+R6        DNI                      R_0603_1608Metric                108.7000  -203.8790  180.0000  top
+R7        DNI                      R_0603_1608Metric                107.0750  -202.0290  180.0000  top
+R8        5.11k                    R_0603_1608Metric                216.5750  -193.5290    0.0000  top
+R9        1.4k                     R_0603_1608Metric                216.7125  -186.0290    0.0000  top
+R10       DNI                      R_0603_1608Metric                108.2000  -209.3790  -90.0000  top
+R11       DNI                      R_0603_1608Metric                108.2000  -214.7040  -90.0000  top
+REF**     Fiducial_1mm_Mask3mm     Fiducial_1mm_Mask3mm             115.0000  -175.0000    0.0000  top
+REF**     Fiducial_1mm_Mask3mm     Fiducial_1mm_Mask3mm             270.0000  -230.0000    0.0000  top
+REF**     Fiducial_1mm_Mask3mm     Fiducial_1mm_Mask3mm             220.0000  -175.0000    0.0000  top
+## End

@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "4a273e4b-9bad-4791-a7d0-37d5358a9575")
 	(paper "USLedger")
+	(title_block
+		(title "913-0000114 K.2")
+		(date "2026-03-10")
+		(rev "Rev 1")
+	)
 	(lib_symbols
 		(symbol "Device:LED"
 			(pin_numbers
@@ -6491,7 +6496,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "19e220b5-5756-4b6c-86e5-44ba87a162be")
 		(property "Reference" "R3"
 			(at 204.978 95.504 0)
@@ -6602,6 +6607,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "PSAS4M2130021TR"
+			(at 268.478 71.882 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG" "Amphenol"
+			(at 268.478 71.882 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "E1"
@@ -7072,6 +7095,24 @@
 				)
 			)
 		)
+		(property "MPN" "LTST-C193KSKT-5A"
+			(at 45.466 146.812 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG" "Lite-On Inc."
+			(at 45.466 146.812 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1d9d13a0-59af-4835-92cd-6acada38d66e")
 		)
@@ -7094,7 +7135,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3c142519-e3b4-4c32-976e-dfa341c3acb8")
 		(property "Reference" "R7"
 			(at 238.506 134.366 0)
@@ -7162,7 +7203,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3eceef9a-78a8-434b-954a-f8c0f32341c7")
 		(property "Reference" "R11"
 			(at 232.664 164.592 0)
@@ -7360,7 +7401,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "56295a22-b752-4236-b0f8-72beeb244876")
 		(property "Reference" "R2"
@@ -7541,6 +7582,24 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-071K4L"
+			(at 55.372 137.668 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG" "Yageo"
+			(at 55.372 137.668 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08b9c2c3-95c7-447c-936d-334d93eda884")
 		)
@@ -7563,7 +7622,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "67ef8787-df43-440c-8507-4538eb4493a0")
 		(property "Reference" "R4"
 			(at 210.566 95.504 0)
@@ -7696,7 +7755,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "806251cb-b88b-413e-9ed7-e49b8c0cd86f")
 		(property "Reference" "R6"
 			(at 238.506 124.206 0)
@@ -7764,7 +7823,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "827d739e-6bd1-4c48-99f2-05ca99dcfa37")
 		(property "Reference" "R1"
 			(at 199.39 95.504 0)
@@ -8072,6 +8131,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "LTST-C193KSKT-5A"
+			(at 55.372 147.066 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG" "Lite-On Inc."
+			(at 55.372 147.066 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8466,6 +8543,24 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603JR-070RL"
+			(at 230.124 130.302 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG" "Yageo"
+			(at 230.124 130.302 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d47ccbc0-d550-4de1-aac8-f0df7fb14712")
 		)
@@ -8492,7 +8587,7 @@
 		(fields_autoplaced yes)
 		(uuid "dda41a43-e094-4503-9893-fb17b930c821")
 		(property "Reference" "R8"
-			(at 48.006 136.6519 0)
+			(at 48.26 136.6519 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8500,8 +8595,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5k"
-			(at 48.006 139.1919 0)
+		(property "Value" "5.11k"
+			(at 48.26 139.1919 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8533,6 +8628,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "RC0603FR-075K11L"
+			(at 45.466 137.922 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG" "Yageo"
+			(at 45.466 137.922 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8600,6 +8713,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "PCIE-064-02-F-D-EMS2-BG"
+			(at 131.064 78.232 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG" "Samtec"
+			(at 131.064 78.232 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "A01"
@@ -8810,7 +8941,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "fc9fa600-608d-4d40-9067-3013619fd85f")
 		(property "Reference" "R10"
 			(at 232.664 154.432 0)
