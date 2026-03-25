@@ -38,6 +38,7 @@
       "footprints_back",
       "footprint_values",
       "footprint_references",
+      "tracks",
       "drc_errors",
       "drawing_sheet",
       "bitmaps",
@@ -47,7 +48,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00aaaa88_02a00a21",
+    "visible_layers": "00000000_00000000_00aaaa88_02a00b21",
     "zone_display_mode": 0
   },
   "git": {
