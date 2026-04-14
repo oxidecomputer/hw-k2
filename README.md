@@ -23,3 +23,17 @@ used NICs.
 
 # Status
 The CAD represents a functional design.
+
+# PLM
+
+For the sake of clarity and consistency, the PLM-released files are renamed and
+organized in the `plm` directory.
+
+| PLM Name | Repo Name |
+| -------------------------------- | --------------------------------------------- |
+| 913-0000114_rev1_v1.d356 | gerbers/u2CEM.d356
+| 913-0000114_rev1_v1_bom.xlsx | pulled out of the gerber zip
+| 913-0000114_rev1_v1_gerbers.zip | gerbers/913-0000114_rev1.zip
+| 913-0000114_rev1_v1_odb.zip | gerbers/u2CEM-odb.zip
+| 913-0000114_rev1_v1_schematic.pdf | 913-0000114.pdf
+| 913-0000114_rev1_v1_stackup.xlsx | stackup-K2-6lyr-FR408HR_rev4_26_MAR_2026.xlsx
